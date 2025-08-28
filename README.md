@@ -3,7 +3,7 @@
 This project focuses on real-time **Google Play Store Data Analytics** using Python, Pandas, and Plotly.  
 It includes six interactive visualizations with time-based restrictions and custom filters.  
 
-## 📊 Project Tasks
+## Project Tasks
 
 1. **Grouped Bar Chart**  
    Compare average rating and total reviews for the top 10 app categories by installs.  
@@ -46,7 +46,7 @@ It includes six interactive visualizations with time-based restrictions and cust
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Python 3.x  
 - Pandas, NumPy  
 - Plotly Express  
